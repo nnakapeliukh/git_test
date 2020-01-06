@@ -1,0 +1,1 @@
+This is Nazar's firs git project
